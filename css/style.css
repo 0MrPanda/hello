@@ -1,0 +1,50 @@
+.fontfamily{
+    font-family: 'Roboto', sans-serif;
+
+   
+}
+
+.color1 {
+    background-image: linear-gradient(to left, #E479D9 , #FF7BB8, #FF8F93, #FFB074, #FFD464, #F9F871);
+    
+}
+
+.color2 {
+    background-color: #FFD464;
+}
+
+.footerx {
+    height: 175px;
+    width: 500px;
+}
+
+.label1{
+    margin-right: 75%;
+}
+
+.thumbnails {
+    margin-top: 75%;
+}
+
+p{
+    font-size: 25px;
+}
+
+.fontsizing {
+    font-size: 15px;
+}
+
+.newsflash {
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+.marginrows {
+    margin-left: 100px;
+}
+
+.psize {
+    font-size: 15px;
+}
+  
+  
